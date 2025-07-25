@@ -1,0 +1,38 @@
+Video/
+Solutions/
+
+# --- Power BI files ---
+*.pbix
+*.pbip
+*.pbix.shared.xml
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- VS Code settings ---
+.vscode/
+*.code-workspace
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Environment files ---
+.env
+.venv/
+env/
+*.ipynb_checkpoints
+
+# --- Logs and temp files ---
+*.log
+*.tmp
+~$*
+
+# --- Excel autosaves ---
+*.xlsx~
+*.xlsb~
+*.xlsm~
